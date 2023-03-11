@@ -10,8 +10,8 @@ POST http://localhost:3000/subscribers
 Content-Type: application/json
 
 {
-    "name": "Fernando Zhu",
-    "subscribedToChannel": "Cuber Angstrom"
+    "name": "",
+    "subscribedToChannel": ""
 }
 
 ###
@@ -24,6 +24,6 @@ PATCH http://localhost:3000/subscribers/640bc0db0f52992fadc8593a
 Content-Type: application/json
 
 {
-    "name": "Fernando S. X. Zhu",
-    "subscribedToChannel": "Bot Cuber Angstrom"
+    "name": "",
+    "subscribedToChannel": ""
 }
